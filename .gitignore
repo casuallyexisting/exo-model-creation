@@ -1,10 +1,9 @@
 ## Main .gitignore File
 
 # Personal Information
-config/training_config.json
-depot/*.csv
-depot/output/
-depot/GoogleTextForm/
+data/*.csv
+data/output/
+data/GoogleTextForm/
 
 # Models
 model_*/
