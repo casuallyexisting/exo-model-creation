@@ -1,0 +1,14 @@
+## Main .gitignore File
+
+# Personal Information
+config/training_config.json
+depot/*.csv
+depot/output/
+depot/GoogleTextForm/
+
+# Models
+model_*/
+
+# Local Files
+__pycache__/
+venv/
