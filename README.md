@@ -12,8 +12,8 @@ This repository is to be used in conjunction with the [Exo](https://github.com/c
 Start by formatting your data in the format found [here](https://github.com/casuallyexisting/exo-model-creation/blob/master/data/data_format.md)
 - You also need a file with the names of the people in the data, and a set of testing data.
 
-If you have access to a mac, you can download iMessage transcripts to use with the trainer. Download it from [here](https://github.com/dsouzarc/iMessageAnalyzer), and select Export > Export Conversation As > (.csv)
-- Run that through parse.py in the data folder you downloaded earlier, and take note of the 'output' folder.
+If you have access to a mac, you can download iMessage transcripts to use with the trainer. Download a great tool for this from [here](https://github.com/dsouzarc/iMessageAnalyzer), and select Export > Export Conversation As > (.csv)
+- Run that through parse.py in the data folder you downloaded earlier by setting the variable 'imsg_files', and take note of the 'output' folder.
 ### Training the Model
 Go to the Colab notebook and follow the instructions. once the model is downloaded, you're free to use it with the Exo repo!
 ## Contributing
