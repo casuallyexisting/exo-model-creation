@@ -11,3 +11,6 @@ model_*/
 # Local Files
 __pycache__/
 venv/
+
+# WIP / Big Data
+public_model_creation/
